@@ -1,0 +1,1678 @@
+[
+    {
+        "timezone": "Pacific\/Midway",
+        "location": "(UTC-11:00) Midway"
+    },
+    {
+        "timezone": "Pacific\/Niue",
+        "location": "(UTC-11:00) Niue"
+    },
+    {
+        "timezone": "Pacific\/Pago_Pago",
+        "location": "(UTC-11:00) Pago Pago"
+    },
+    {
+        "timezone": "America\/Adak",
+        "location": "(UTC-10:00) Adak"
+    },
+    {
+        "timezone": "Pacific\/Honolulu",
+        "location": "(UTC-10:00) Honolulu"
+    },
+    {
+        "timezone": "Pacific\/Johnston",
+        "location": "(UTC-10:00) Johnston"
+    },
+    {
+        "timezone": "Pacific\/Rarotonga",
+        "location": "(UTC-10:00) Rarotonga"
+    },
+    {
+        "timezone": "Pacific\/Tahiti",
+        "location": "(UTC-10:00) Tahiti"
+    },
+    {
+        "timezone": "Pacific\/Marquesas",
+        "location": "(UTC-09:30) Marquesas"
+    },
+    {
+        "timezone": "America\/Anchorage",
+        "location": "(UTC-09:00) Anchorage"
+    },
+    {
+        "timezone": "Pacific\/Gambier",
+        "location": "(UTC-09:00) Gambier"
+    },
+    {
+        "timezone": "America\/Juneau",
+        "location": "(UTC-09:00) Juneau"
+    },
+    {
+        "timezone": "America\/Nome",
+        "location": "(UTC-09:00) Nome"
+    },
+    {
+        "timezone": "America\/Sitka",
+        "location": "(UTC-09:00) Sitka"
+    },
+    {
+        "timezone": "America\/Yakutat",
+        "location": "(UTC-09:00) Yakutat"
+    },
+    {
+        "timezone": "America\/Dawson",
+        "location": "(UTC-08:00) Dawson"
+    },
+    {
+        "timezone": "America\/Los_Angeles",
+        "location": "(UTC-08:00) Los Angeles"
+    },
+    {
+        "timezone": "America\/Metlakatla",
+        "location": "(UTC-08:00) Metlakatla"
+    },
+    {
+        "timezone": "Pacific\/Pitcairn",
+        "location": "(UTC-08:00) Pitcairn"
+    },
+    {
+        "timezone": "America\/Santa_Isabel",
+        "location": "(UTC-08:00) Santa Isabel"
+    },
+    {
+        "timezone": "America\/Tijuana",
+        "location": "(UTC-08:00) Tijuana"
+    },
+    {
+        "timezone": "America\/Vancouver",
+        "location": "(UTC-08:00) Vancouver"
+    },
+    {
+        "timezone": "America\/Whitehorse",
+        "location": "(UTC-08:00) Whitehorse"
+    },
+    {
+        "timezone": "America\/Boise",
+        "location": "(UTC-07:00) Boise"
+    },
+    {
+        "timezone": "America\/Cambridge_Bay",
+        "location": "(UTC-07:00) Cambridge Bay"
+    },
+    {
+        "timezone": "America\/Chihuahua",
+        "location": "(UTC-07:00) Chihuahua"
+    },
+    {
+        "timezone": "America\/Creston",
+        "location": "(UTC-07:00) Creston"
+    },
+    {
+        "timezone": "America\/Dawson_Creek",
+        "location": "(UTC-07:00) Dawson Creek"
+    },
+    {
+        "timezone": "America\/Denver",
+        "location": "(UTC-07:00) Denver"
+    },
+    {
+        "timezone": "America\/Edmonton",
+        "location": "(UTC-07:00) Edmonton"
+    },
+    {
+        "timezone": "America\/Hermosillo",
+        "location": "(UTC-07:00) Hermosillo"
+    },
+    {
+        "timezone": "America\/Inuvik",
+        "location": "(UTC-07:00) Inuvik"
+    },
+    {
+        "timezone": "America\/Mazatlan",
+        "location": "(UTC-07:00) Mazatlan"
+    },
+    {
+        "timezone": "America\/Ojinaga",
+        "location": "(UTC-07:00) Ojinaga"
+    },
+    {
+        "timezone": "America\/Phoenix",
+        "location": "(UTC-07:00) Phoenix"
+    },
+    {
+        "timezone": "America\/Shiprock",
+        "location": "(UTC-07:00) Shiprock"
+    },
+    {
+        "timezone": "America\/Yellowknife",
+        "location": "(UTC-07:00) Yellowknife"
+    },
+    {
+        "timezone": "America\/Bahia_Banderas",
+        "location": "(UTC-06:00) Bahia Banderas"
+    },
+    {
+        "timezone": "America\/Belize",
+        "location": "(UTC-06:00) Belize"
+    },
+    {
+        "timezone": "America\/North_Dakota\/Beulah",
+        "location": "(UTC-06:00) Beulah"
+    },
+    {
+        "timezone": "America\/Cancun",
+        "location": "(UTC-06:00) Cancun"
+    },
+    {
+        "timezone": "America\/North_Dakota\/Center",
+        "location": "(UTC-06:00) Center"
+    },
+    {
+        "timezone": "America\/Chicago",
+        "location": "(UTC-06:00) Chicago"
+    },
+    {
+        "timezone": "America\/Costa_Rica",
+        "location": "(UTC-06:00) Costa Rica"
+    },
+    {
+        "timezone": "Pacific\/Easter",
+        "location": "(UTC-06:00) Easter"
+    },
+    {
+        "timezone": "America\/El_Salvador",
+        "location": "(UTC-06:00) El Salvador"
+    },
+    {
+        "timezone": "Pacific\/Galapagos",
+        "location": "(UTC-06:00) Galapagos"
+    },
+    {
+        "timezone": "America\/Guatemala",
+        "location": "(UTC-06:00) Guatemala"
+    },
+    {
+        "timezone": "America\/Indiana\/Knox",
+        "location": "(UTC-06:00) Knox"
+    },
+    {
+        "timezone": "America\/Managua",
+        "location": "(UTC-06:00) Managua"
+    },
+    {
+        "timezone": "America\/Matamoros",
+        "location": "(UTC-06:00) Matamoros"
+    },
+    {
+        "timezone": "America\/Menominee",
+        "location": "(UTC-06:00) Menominee"
+    },
+    {
+        "timezone": "America\/Merida",
+        "location": "(UTC-06:00) Merida"
+    },
+    {
+        "timezone": "America\/Mexico_City",
+        "location": "(UTC-06:00) Mexico City"
+    },
+    {
+        "timezone": "America\/Monterrey",
+        "location": "(UTC-06:00) Monterrey"
+    },
+    {
+        "timezone": "America\/North_Dakota\/New_Salem",
+        "location": "(UTC-06:00) New Salem"
+    },
+    {
+        "timezone": "America\/Rainy_River",
+        "location": "(UTC-06:00) Rainy River"
+    },
+    {
+        "timezone": "America\/Rankin_Inlet",
+        "location": "(UTC-06:00) Rankin Inlet"
+    },
+    {
+        "timezone": "America\/Regina",
+        "location": "(UTC-06:00) Regina"
+    },
+    {
+        "timezone": "America\/Resolute",
+        "location": "(UTC-06:00) Resolute"
+    },
+    {
+        "timezone": "America\/Swift_Current",
+        "location": "(UTC-06:00) Swift Current"
+    },
+    {
+        "timezone": "America\/Tegucigalpa",
+        "location": "(UTC-06:00) Tegucigalpa"
+    },
+    {
+        "timezone": "America\/Indiana\/Tell_City",
+        "location": "(UTC-06:00) Tell City"
+    },
+    {
+        "timezone": "America\/Winnipeg",
+        "location": "(UTC-06:00) Winnipeg"
+    },
+    {
+        "timezone": "America\/Atikokan",
+        "location": "(UTC-05:00) Atikokan"
+    },
+    {
+        "timezone": "America\/Bogota",
+        "location": "(UTC-05:00) Bogota"
+    },
+    {
+        "timezone": "America\/Cayman",
+        "location": "(UTC-05:00) Cayman"
+    },
+    {
+        "timezone": "America\/Detroit",
+        "location": "(UTC-05:00) Detroit"
+    },
+    {
+        "timezone": "America\/Grand_Turk",
+        "location": "(UTC-05:00) Grand Turk"
+    },
+    {
+        "timezone": "America\/Guayaquil",
+        "location": "(UTC-05:00) Guayaquil"
+    },
+    {
+        "timezone": "America\/Havana",
+        "location": "(UTC-05:00) Havana"
+    },
+    {
+        "timezone": "America\/Indiana\/Indianapolis",
+        "location": "(UTC-05:00) Indianapolis"
+    },
+    {
+        "timezone": "America\/Iqaluit",
+        "location": "(UTC-05:00) Iqaluit"
+    },
+    {
+        "timezone": "America\/Jamaica",
+        "location": "(UTC-05:00) Jamaica"
+    },
+    {
+        "timezone": "America\/Lima",
+        "location": "(UTC-05:00) Lima"
+    },
+    {
+        "timezone": "America\/Kentucky\/Louisville",
+        "location": "(UTC-05:00) Louisville"
+    },
+    {
+        "timezone": "America\/Indiana\/Marengo",
+        "location": "(UTC-05:00) Marengo"
+    },
+    {
+        "timezone": "America\/Kentucky\/Monticello",
+        "location": "(UTC-05:00) Monticello"
+    },
+    {
+        "timezone": "America\/Montreal",
+        "location": "(UTC-05:00) Montreal"
+    },
+    {
+        "timezone": "America\/Nassau",
+        "location": "(UTC-05:00) Nassau"
+    },
+    {
+        "timezone": "America\/New_York",
+        "location": "(UTC-05:00) New York"
+    },
+    {
+        "timezone": "America\/Nipigon",
+        "location": "(UTC-05:00) Nipigon"
+    },
+    {
+        "timezone": "America\/Panama",
+        "location": "(UTC-05:00) Panama"
+    },
+    {
+        "timezone": "America\/Pangnirtung",
+        "location": "(UTC-05:00) Pangnirtung"
+    },
+    {
+        "timezone": "America\/Indiana\/Petersburg",
+        "location": "(UTC-05:00) Petersburg"
+    },
+    {
+        "timezone": "America\/Port-au-Prince",
+        "location": "(UTC-05:00) Port-au-Prince"
+    },
+    {
+        "timezone": "America\/Thunder_Bay",
+        "location": "(UTC-05:00) Thunder Bay"
+    },
+    {
+        "timezone": "America\/Toronto",
+        "location": "(UTC-05:00) Toronto"
+    },
+    {
+        "timezone": "America\/Indiana\/Vevay",
+        "location": "(UTC-05:00) Vevay"
+    },
+    {
+        "timezone": "America\/Indiana\/Vincennes",
+        "location": "(UTC-05:00) Vincennes"
+    },
+    {
+        "timezone": "America\/Indiana\/Winamac",
+        "location": "(UTC-05:00) Winamac"
+    },
+    {
+        "timezone": "America\/Caracas",
+        "location": "(UTC-04:30) Caracas"
+    },
+    {
+        "timezone": "America\/Anguilla",
+        "location": "(UTC-04:00) Anguilla"
+    },
+    {
+        "timezone": "America\/Antigua",
+        "location": "(UTC-04:00) Antigua"
+    },
+    {
+        "timezone": "America\/Aruba",
+        "location": "(UTC-04:00) Aruba"
+    },
+    {
+        "timezone": "America\/Asuncion",
+        "location": "(UTC-04:00) Asuncion"
+    },
+    {
+        "timezone": "America\/Barbados",
+        "location": "(UTC-04:00) Barbados"
+    },
+    {
+        "timezone": "Atlantic\/Bermuda",
+        "location": "(UTC-04:00) Bermuda"
+    },
+    {
+        "timezone": "America\/Blanc-Sablon",
+        "location": "(UTC-04:00) Blanc-Sablon"
+    },
+    {
+        "timezone": "America\/Boa_Vista",
+        "location": "(UTC-04:00) Boa Vista"
+    },
+    {
+        "timezone": "America\/Campo_Grande",
+        "location": "(UTC-04:00) Campo Grande"
+    },
+    {
+        "timezone": "America\/Cuiaba",
+        "location": "(UTC-04:00) Cuiaba"
+    },
+    {
+        "timezone": "America\/Curacao",
+        "location": "(UTC-04:00) Curacao"
+    },
+    {
+        "timezone": "America\/Dominica",
+        "location": "(UTC-04:00) Dominica"
+    },
+    {
+        "timezone": "America\/Eirunepe",
+        "location": "(UTC-04:00) Eirunepe"
+    },
+    {
+        "timezone": "America\/Glace_Bay",
+        "location": "(UTC-04:00) Glace Bay"
+    },
+    {
+        "timezone": "America\/Goose_Bay",
+        "location": "(UTC-04:00) Goose Bay"
+    },
+    {
+        "timezone": "America\/Grenada",
+        "location": "(UTC-04:00) Grenada"
+    },
+    {
+        "timezone": "America\/Guadeloupe",
+        "location": "(UTC-04:00) Guadeloupe"
+    },
+    {
+        "timezone": "America\/Guyana",
+        "location": "(UTC-04:00) Guyana"
+    },
+    {
+        "timezone": "America\/Halifax",
+        "location": "(UTC-04:00) Halifax"
+    },
+    {
+        "timezone": "America\/Kralendijk",
+        "location": "(UTC-04:00) Kralendijk"
+    },
+    {
+        "timezone": "America\/La_Paz",
+        "location": "(UTC-04:00) La Paz"
+    },
+    {
+        "timezone": "America\/Lower_Princes",
+        "location": "(UTC-04:00) Lower Princes"
+    },
+    {
+        "timezone": "America\/Manaus",
+        "location": "(UTC-04:00) Manaus"
+    },
+    {
+        "timezone": "America\/Marigot",
+        "location": "(UTC-04:00) Marigot"
+    },
+    {
+        "timezone": "America\/Martinique",
+        "location": "(UTC-04:00) Martinique"
+    },
+    {
+        "timezone": "America\/Moncton",
+        "location": "(UTC-04:00) Moncton"
+    },
+    {
+        "timezone": "America\/Montserrat",
+        "location": "(UTC-04:00) Montserrat"
+    },
+    {
+        "timezone": "Antarctica\/Palmer",
+        "location": "(UTC-04:00) Palmer"
+    },
+    {
+        "timezone": "America\/Port_of_Spain",
+        "location": "(UTC-04:00) Port of Spain"
+    },
+    {
+        "timezone": "America\/Porto_Velho",
+        "location": "(UTC-04:00) Porto Velho"
+    },
+    {
+        "timezone": "America\/Puerto_Rico",
+        "location": "(UTC-04:00) Puerto Rico"
+    },
+    {
+        "timezone": "America\/Rio_Branco",
+        "location": "(UTC-04:00) Rio Branco"
+    },
+    {
+        "timezone": "America\/Santiago",
+        "location": "(UTC-04:00) Santiago"
+    },
+    {
+        "timezone": "America\/Santo_Domingo",
+        "location": "(UTC-04:00) Santo Domingo"
+    },
+    {
+        "timezone": "America\/St_Barthelemy",
+        "location": "(UTC-04:00) St. Barthelemy"
+    },
+    {
+        "timezone": "America\/St_Kitts",
+        "location": "(UTC-04:00) St. Kitts"
+    },
+    {
+        "timezone": "America\/St_Lucia",
+        "location": "(UTC-04:00) St. Lucia"
+    },
+    {
+        "timezone": "America\/St_Thomas",
+        "location": "(UTC-04:00) St. Thomas"
+    },
+    {
+        "timezone": "America\/St_Vincent",
+        "location": "(UTC-04:00) St. Vincent"
+    },
+    {
+        "timezone": "America\/Thule",
+        "location": "(UTC-04:00) Thule"
+    },
+    {
+        "timezone": "America\/Tortola",
+        "location": "(UTC-04:00) Tortola"
+    },
+    {
+        "timezone": "America\/St_Johns",
+        "location": "(UTC-03:30) St. Johns"
+    },
+    {
+        "timezone": "America\/Araguaina",
+        "location": "(UTC-03:00) Araguaina"
+    },
+    {
+        "timezone": "America\/Bahia",
+        "location": "(UTC-03:00) Bahia"
+    },
+    {
+        "timezone": "America\/Belem",
+        "location": "(UTC-03:00) Belem"
+    },
+    {
+        "timezone": "America\/Argentina\/Buenos_Aires",
+        "location": "(UTC-03:00) Buenos Aires"
+    },
+    {
+        "timezone": "America\/Argentina\/Catamarca",
+        "location": "(UTC-03:00) Catamarca"
+    },
+    {
+        "timezone": "America\/Cayenne",
+        "location": "(UTC-03:00) Cayenne"
+    },
+    {
+        "timezone": "America\/Argentina\/Cordoba",
+        "location": "(UTC-03:00) Cordoba"
+    },
+    {
+        "timezone": "America\/Fortaleza",
+        "location": "(UTC-03:00) Fortaleza"
+    },
+    {
+        "timezone": "America\/Godthab",
+        "location": "(UTC-03:00) Godthab"
+    },
+    {
+        "timezone": "America\/Argentina\/Jujuy",
+        "location": "(UTC-03:00) Jujuy"
+    },
+    {
+        "timezone": "America\/Argentina\/La_Rioja",
+        "location": "(UTC-03:00) La Rioja"
+    },
+    {
+        "timezone": "America\/Maceio",
+        "location": "(UTC-03:00) Maceio"
+    },
+    {
+        "timezone": "America\/Argentina\/Mendoza",
+        "location": "(UTC-03:00) Mendoza"
+    },
+    {
+        "timezone": "America\/Miquelon",
+        "location": "(UTC-03:00) Miquelon"
+    },
+    {
+        "timezone": "America\/Montevideo",
+        "location": "(UTC-03:00) Montevideo"
+    },
+    {
+        "timezone": "America\/Paramaribo",
+        "location": "(UTC-03:00) Paramaribo"
+    },
+    {
+        "timezone": "America\/Recife",
+        "location": "(UTC-03:00) Recife"
+    },
+    {
+        "timezone": "America\/Argentina\/Rio_Gallegos",
+        "location": "(UTC-03:00) Rio Gallegos"
+    },
+    {
+        "timezone": "Antarctica\/Rothera",
+        "location": "(UTC-03:00) Rothera"
+    },
+    {
+        "timezone": "America\/Argentina\/Salta",
+        "location": "(UTC-03:00) Salta"
+    },
+    {
+        "timezone": "America\/Argentina\/San_Juan",
+        "location": "(UTC-03:00) San Juan"
+    },
+    {
+        "timezone": "America\/Argentina\/San_Luis",
+        "location": "(UTC-03:00) San Luis"
+    },
+    {
+        "timezone": "America\/Santarem",
+        "location": "(UTC-03:00) Santarem"
+    },
+    {
+        "timezone": "America\/Sao_Paulo",
+        "location": "(UTC-03:00) Sao Paulo"
+    },
+    {
+        "timezone": "Atlantic\/Stanley",
+        "location": "(UTC-03:00) Stanley"
+    },
+    {
+        "timezone": "America\/Argentina\/Tucuman",
+        "location": "(UTC-03:00) Tucuman"
+    },
+    {
+        "timezone": "America\/Argentina\/Ushuaia",
+        "location": "(UTC-03:00) Ushuaia"
+    },
+    {
+        "timezone": "America\/Noronha",
+        "location": "(UTC-02:00) Noronha"
+    },
+    {
+        "timezone": "Atlantic\/South_Georgia",
+        "location": "(UTC-02:00) South Georgia"
+    },
+    {
+        "timezone": "Atlantic\/Azores",
+        "location": "(UTC-01:00) Azores"
+    },
+    {
+        "timezone": "Atlantic\/Cape_Verde",
+        "location": "(UTC-01:00) Cape Verde"
+    },
+    {
+        "timezone": "America\/Scoresbysund",
+        "location": "(UTC-01:00) Scoresbysund"
+    },
+    {
+        "timezone": "Africa\/Abidjan",
+        "location": "(UTC+00:00) Abidjan"
+    },
+    {
+        "timezone": "Africa\/Accra",
+        "location": "(UTC+00:00) Accra"
+    },
+    {
+        "timezone": "Africa\/Bamako",
+        "location": "(UTC+00:00) Bamako"
+    },
+    {
+        "timezone": "Africa\/Banjul",
+        "location": "(UTC+00:00) Banjul"
+    },
+    {
+        "timezone": "Africa\/Bissau",
+        "location": "(UTC+00:00) Bissau"
+    },
+    {
+        "timezone": "Atlantic\/Canary",
+        "location": "(UTC+00:00) Canary"
+    },
+    {
+        "timezone": "Africa\/Casablanca",
+        "location": "(UTC+00:00) Casablanca"
+    },
+    {
+        "timezone": "Africa\/Conakry",
+        "location": "(UTC+00:00) Conakry"
+    },
+    {
+        "timezone": "Africa\/Dakar",
+        "location": "(UTC+00:00) Dakar"
+    },
+    {
+        "timezone": "America\/Danmarkshavn",
+        "location": "(UTC+00:00) Danmarkshavn"
+    },
+    {
+        "timezone": "Europe\/Dublin",
+        "location": "(UTC+00:00) Dublin"
+    },
+    {
+        "timezone": "Africa\/El_Aaiun",
+        "location": "(UTC+00:00) El Aaiun"
+    },
+    {
+        "timezone": "Atlantic\/Faroe",
+        "location": "(UTC+00:00) Faroe"
+    },
+    {
+        "timezone": "Africa\/Freetown",
+        "location": "(UTC+00:00) Freetown"
+    },
+    {
+        "timezone": "Europe\/Guernsey",
+        "location": "(UTC+00:00) Guernsey"
+    },
+    {
+        "timezone": "Europe\/Isle_of_Man",
+        "location": "(UTC+00:00) Isle of Man"
+    },
+    {
+        "timezone": "Europe\/Jersey",
+        "location": "(UTC+00:00) Jersey"
+    },
+    {
+        "timezone": "Europe\/Lisbon",
+        "location": "(UTC+00:00) Lisbon"
+    },
+    {
+        "timezone": "Africa\/Lome",
+        "location": "(UTC+00:00) Lome"
+    },
+    {
+        "timezone": "Europe\/London",
+        "location": "(UTC+00:00) London"
+    },
+    {
+        "timezone": "Atlantic\/Madeira",
+        "location": "(UTC+00:00) Madeira"
+    },
+    {
+        "timezone": "Africa\/Monrovia",
+        "location": "(UTC+00:00) Monrovia"
+    },
+    {
+        "timezone": "Africa\/Nouakchott",
+        "location": "(UTC+00:00) Nouakchott"
+    },
+    {
+        "timezone": "Africa\/Ouagadougou",
+        "location": "(UTC+00:00) Ouagadougou"
+    },
+    {
+        "timezone": "Atlantic\/Reykjavik",
+        "location": "(UTC+00:00) Reykjavik"
+    },
+    {
+        "timezone": "Africa\/Sao_Tome",
+        "location": "(UTC+00:00) Sao Tome"
+    },
+    {
+        "timezone": "Atlantic\/St_Helena",
+        "location": "(UTC+00:00) St. Helena"
+    },
+    {
+        "timezone": "UTC",
+        "location": "(UTC+00:00) UTC"
+    },
+    {
+        "timezone": "Africa\/Algiers",
+        "location": "(UTC+01:00) Algiers"
+    },
+    {
+        "timezone": "Europe\/Amsterdam",
+        "location": "(UTC+01:00) Amsterdam"
+    },
+    {
+        "timezone": "Europe\/Andorra",
+        "location": "(UTC+01:00) Andorra"
+    },
+    {
+        "timezone": "Africa\/Bangui",
+        "location": "(UTC+01:00) Bangui"
+    },
+    {
+        "timezone": "Europe\/Belgrade",
+        "location": "(UTC+01:00) Belgrade"
+    },
+    {
+        "timezone": "Europe\/Berlin",
+        "location": "(UTC+01:00) Berlin"
+    },
+    {
+        "timezone": "Europe\/Bratislava",
+        "location": "(UTC+01:00) Bratislava"
+    },
+    {
+        "timezone": "Africa\/Brazzaville",
+        "location": "(UTC+01:00) Brazzaville"
+    },
+    {
+        "timezone": "Europe\/Brussels",
+        "location": "(UTC+01:00) Brussels"
+    },
+    {
+        "timezone": "Europe\/Budapest",
+        "location": "(UTC+01:00) Budapest"
+    },
+    {
+        "timezone": "Europe\/Busingen",
+        "location": "(UTC+01:00) Busingen"
+    },
+    {
+        "timezone": "Africa\/Ceuta",
+        "location": "(UTC+01:00) Ceuta"
+    },
+    {
+        "timezone": "Europe\/Copenhagen",
+        "location": "(UTC+01:00) Copenhagen"
+    },
+    {
+        "timezone": "Africa\/Douala",
+        "location": "(UTC+01:00) Douala"
+    },
+    {
+        "timezone": "Europe\/Gibraltar",
+        "location": "(UTC+01:00) Gibraltar"
+    },
+    {
+        "timezone": "Africa\/Kinshasa",
+        "location": "(UTC+01:00) Kinshasa"
+    },
+    {
+        "timezone": "Africa\/Lagos",
+        "location": "(UTC+01:00) Lagos"
+    },
+    {
+        "timezone": "Africa\/Libreville",
+        "location": "(UTC+01:00) Libreville"
+    },
+    {
+        "timezone": "Europe\/Ljubljana",
+        "location": "(UTC+01:00) Ljubljana"
+    },
+    {
+        "timezone": "Arctic\/Longyearbyen",
+        "location": "(UTC+01:00) Longyearbyen"
+    },
+    {
+        "timezone": "Africa\/Luanda",
+        "location": "(UTC+01:00) Luanda"
+    },
+    {
+        "timezone": "Europe\/Luxembourg",
+        "location": "(UTC+01:00) Luxembourg"
+    },
+    {
+        "timezone": "Europe\/Madrid",
+        "location": "(UTC+01:00) Madrid"
+    },
+    {
+        "timezone": "Africa\/Malabo",
+        "location": "(UTC+01:00) Malabo"
+    },
+    {
+        "timezone": "Europe\/Malta",
+        "location": "(UTC+01:00) Malta"
+    },
+    {
+        "timezone": "Europe\/Monaco",
+        "location": "(UTC+01:00) Monaco"
+    },
+    {
+        "timezone": "Africa\/Ndjamena",
+        "location": "(UTC+01:00) Ndjamena"
+    },
+    {
+        "timezone": "Africa\/Niamey",
+        "location": "(UTC+01:00) Niamey"
+    },
+    {
+        "timezone": "Europe\/Oslo",
+        "location": "(UTC+01:00) Oslo"
+    },
+    {
+        "timezone": "Europe\/Paris",
+        "location": "(UTC+01:00) Paris"
+    },
+    {
+        "timezone": "Europe\/Podgorica",
+        "location": "(UTC+01:00) Podgorica"
+    },
+    {
+        "timezone": "Africa\/Porto-Novo",
+        "location": "(UTC+01:00) Porto-Novo"
+    },
+    {
+        "timezone": "Europe\/Prague",
+        "location": "(UTC+01:00) Prague"
+    },
+    {
+        "timezone": "Europe\/Rome",
+        "location": "(UTC+01:00) Rome"
+    },
+    {
+        "timezone": "Europe\/San_Marino",
+        "location": "(UTC+01:00) San Marino"
+    },
+    {
+        "timezone": "Europe\/Sarajevo",
+        "location": "(UTC+01:00) Sarajevo"
+    },
+    {
+        "timezone": "Europe\/Skopje",
+        "location": "(UTC+01:00) Skopje"
+    },
+    {
+        "timezone": "Europe\/Stockholm",
+        "location": "(UTC+01:00) Stockholm"
+    },
+    {
+        "timezone": "Europe\/Tirane",
+        "location": "(UTC+01:00) Tirane"
+    },
+    {
+        "timezone": "Africa\/Tripoli",
+        "location": "(UTC+01:00) Tripoli"
+    },
+    {
+        "timezone": "Africa\/Tunis",
+        "location": "(UTC+01:00) Tunis"
+    },
+    {
+        "timezone": "Europe\/Vaduz",
+        "location": "(UTC+01:00) Vaduz"
+    },
+    {
+        "timezone": "Europe\/Vatican",
+        "location": "(UTC+01:00) Vatican"
+    },
+    {
+        "timezone": "Europe\/Vienna",
+        "location": "(UTC+01:00) Vienna"
+    },
+    {
+        "timezone": "Europe\/Warsaw",
+        "location": "(UTC+01:00) Warsaw"
+    },
+    {
+        "timezone": "Africa\/Windhoek",
+        "location": "(UTC+01:00) Windhoek"
+    },
+    {
+        "timezone": "Europe\/Zagreb",
+        "location": "(UTC+01:00) Zagreb"
+    },
+    {
+        "timezone": "Europe\/Zurich",
+        "location": "(UTC+01:00) Zurich"
+    },
+    {
+        "timezone": "Europe\/Athens",
+        "location": "(UTC+02:00) Athens"
+    },
+    {
+        "timezone": "Asia\/Beirut",
+        "location": "(UTC+02:00) Beirut"
+    },
+    {
+        "timezone": "Africa\/Blantyre",
+        "location": "(UTC+02:00) Blantyre"
+    },
+    {
+        "timezone": "Europe\/Bucharest",
+        "location": "(UTC+02:00) Bucharest"
+    },
+    {
+        "timezone": "Africa\/Bujumbura",
+        "location": "(UTC+02:00) Bujumbura"
+    },
+    {
+        "timezone": "Africa\/Cairo",
+        "location": "(UTC+02:00) Cairo"
+    },
+    {
+        "timezone": "Europe\/Chisinau",
+        "location": "(UTC+02:00) Chisinau"
+    },
+    {
+        "timezone": "Asia\/Damascus",
+        "location": "(UTC+02:00) Damascus"
+    },
+    {
+        "timezone": "Africa\/Gaborone",
+        "location": "(UTC+02:00) Gaborone"
+    },
+    {
+        "timezone": "Asia\/Gaza",
+        "location": "(UTC+02:00) Gaza"
+    },
+    {
+        "timezone": "Africa\/Harare",
+        "location": "(UTC+02:00) Harare"
+    },
+    {
+        "timezone": "Asia\/Hebron",
+        "location": "(UTC+02:00) Hebron"
+    },
+    {
+        "timezone": "Europe\/Helsinki",
+        "location": "(UTC+02:00) Helsinki"
+    },
+    {
+        "timezone": "Europe\/Istanbul",
+        "location": "(UTC+02:00) Istanbul"
+    },
+    {
+        "timezone": "Asia\/Jerusalem",
+        "location": "(UTC+02:00) Jerusalem"
+    },
+    {
+        "timezone": "Africa\/Johannesburg",
+        "location": "(UTC+02:00) Johannesburg"
+    },
+    {
+        "timezone": "Europe\/Kiev",
+        "location": "(UTC+02:00) Kiev"
+    },
+    {
+        "timezone": "Africa\/Kigali",
+        "location": "(UTC+02:00) Kigali"
+    },
+    {
+        "timezone": "Africa\/Lubumbashi",
+        "location": "(UTC+02:00) Lubumbashi"
+    },
+    {
+        "timezone": "Africa\/Lusaka",
+        "location": "(UTC+02:00) Lusaka"
+    },
+    {
+        "timezone": "Africa\/Maputo",
+        "location": "(UTC+02:00) Maputo"
+    },
+    {
+        "timezone": "Europe\/Mariehamn",
+        "location": "(UTC+02:00) Mariehamn"
+    },
+    {
+        "timezone": "Africa\/Maseru",
+        "location": "(UTC+02:00) Maseru"
+    },
+    {
+        "timezone": "Africa\/Mbabane",
+        "location": "(UTC+02:00) Mbabane"
+    },
+    {
+        "timezone": "Asia\/Nicosia",
+        "location": "(UTC+02:00) Nicosia"
+    },
+    {
+        "timezone": "Europe\/Riga",
+        "location": "(UTC+02:00) Riga"
+    },
+    {
+        "timezone": "Europe\/Simferopol",
+        "location": "(UTC+02:00) Simferopol"
+    },
+    {
+        "timezone": "Europe\/Sofia",
+        "location": "(UTC+02:00) Sofia"
+    },
+    {
+        "timezone": "Europe\/Tallinn",
+        "location": "(UTC+02:00) Tallinn"
+    },
+    {
+        "timezone": "Europe\/Uzhgorod",
+        "location": "(UTC+02:00) Uzhgorod"
+    },
+    {
+        "timezone": "Europe\/Vilnius",
+        "location": "(UTC+02:00) Vilnius"
+    },
+    {
+        "timezone": "Europe\/Zaporozhye",
+        "location": "(UTC+02:00) Zaporozhye"
+    },
+    {
+        "timezone": "Africa\/Addis_Ababa",
+        "location": "(UTC+03:00) Addis Ababa"
+    },
+    {
+        "timezone": "Asia\/Aden",
+        "location": "(UTC+03:00) Aden"
+    },
+    {
+        "timezone": "Asia\/Amman",
+        "location": "(UTC+03:00) Amman"
+    },
+    {
+        "timezone": "Indian\/Antananarivo",
+        "location": "(UTC+03:00) Antananarivo"
+    },
+    {
+        "timezone": "Africa\/Asmara",
+        "location": "(UTC+03:00) Asmara"
+    },
+    {
+        "timezone": "Asia\/Baghdad",
+        "location": "(UTC+03:00) Baghdad"
+    },
+    {
+        "timezone": "Asia\/Bahrain",
+        "location": "(UTC+03:00) Bahrain"
+    },
+    {
+        "timezone": "Indian\/Comoro",
+        "location": "(UTC+03:00) Comoro"
+    },
+    {
+        "timezone": "Africa\/Dar_es_Salaam",
+        "location": "(UTC+03:00) Dar es Salaam"
+    },
+    {
+        "timezone": "Africa\/Djibouti",
+        "location": "(UTC+03:00) Djibouti"
+    },
+    {
+        "timezone": "Africa\/Juba",
+        "location": "(UTC+03:00) Juba"
+    },
+    {
+        "timezone": "Europe\/Kaliningrad",
+        "location": "(UTC+03:00) Kaliningrad"
+    },
+    {
+        "timezone": "Africa\/Kampala",
+        "location": "(UTC+03:00) Kampala"
+    },
+    {
+        "timezone": "Africa\/Khartoum",
+        "location": "(UTC+03:00) Khartoum"
+    },
+    {
+        "timezone": "Asia\/Kuwait",
+        "location": "(UTC+03:00) Kuwait"
+    },
+    {
+        "timezone": "Indian\/Mayotte",
+        "location": "(UTC+03:00) Mayotte"
+    },
+    {
+        "timezone": "Europe\/Minsk",
+        "location": "(UTC+03:00) Minsk"
+    },
+    {
+        "timezone": "Africa\/Mogadishu",
+        "location": "(UTC+03:00) Mogadishu"
+    },
+    {
+        "timezone": "Europe\/Moscow",
+        "location": "(UTC+03:00) Moscow"
+    },
+    {
+        "timezone": "Africa\/Nairobi",
+        "location": "(UTC+03:00) Nairobi"
+    },
+    {
+        "timezone": "Asia\/Qatar",
+        "location": "(UTC+03:00) Qatar"
+    },
+    {
+        "timezone": "Asia\/Riyadh",
+        "location": "(UTC+03:00) Riyadh"
+    },
+    {
+        "timezone": "Antarctica\/Syowa",
+        "location": "(UTC+03:00) Syowa"
+    },
+    {
+        "timezone": "Asia\/Tehran",
+        "location": "(UTC+03:30) Tehran"
+    },
+    {
+        "timezone": "Asia\/Baku",
+        "location": "(UTC+04:00) Baku"
+    },
+    {
+        "timezone": "Asia\/Dubai",
+        "location": "(UTC+04:00) Dubai"
+    },
+    {
+        "timezone": "Indian\/Mahe",
+        "location": "(UTC+04:00) Mahe"
+    },
+    {
+        "timezone": "Indian\/Mauritius",
+        "location": "(UTC+04:00) Mauritius"
+    },
+    {
+        "timezone": "Asia\/Muscat",
+        "location": "(UTC+04:00) Muscat"
+    },
+    {
+        "timezone": "Indian\/Reunion",
+        "location": "(UTC+04:00) Reunion"
+    },
+    {
+        "timezone": "Europe\/Samara",
+        "location": "(UTC+04:00) Samara"
+    },
+    {
+        "timezone": "Asia\/Tbilisi",
+        "location": "(UTC+04:00) Tbilisi"
+    },
+    {
+        "timezone": "Europe\/Volgograd",
+        "location": "(UTC+04:00) Volgograd"
+    },
+    {
+        "timezone": "Asia\/Yerevan",
+        "location": "(UTC+04:00) Yerevan"
+    },
+    {
+        "timezone": "Asia\/Kabul",
+        "location": "(UTC+04:30) Kabul"
+    },
+    {
+        "timezone": "Asia\/Aqtau",
+        "location": "(UTC+05:00) Aqtau"
+    },
+    {
+        "timezone": "Asia\/Aqtobe",
+        "location": "(UTC+05:00) Aqtobe"
+    },
+    {
+        "timezone": "Asia\/Ashgabat",
+        "location": "(UTC+05:00) Ashgabat"
+    },
+    {
+        "timezone": "Asia\/Dushanbe",
+        "location": "(UTC+05:00) Dushanbe"
+    },
+    {
+        "timezone": "Asia\/Karachi",
+        "location": "(UTC+05:00) Karachi"
+    },
+    {
+        "timezone": "Indian\/Kerguelen",
+        "location": "(UTC+05:00) Kerguelen"
+    },
+    {
+        "timezone": "Indian\/Maldives",
+        "location": "(UTC+05:00) Maldives"
+    },
+    {
+        "timezone": "Antarctica\/Mawson",
+        "location": "(UTC+05:00) Mawson"
+    },
+    {
+        "timezone": "Asia\/Oral",
+        "location": "(UTC+05:00) Oral"
+    },
+    {
+        "timezone": "Asia\/Samarkand",
+        "location": "(UTC+05:00) Samarkand"
+    },
+    {
+        "timezone": "Asia\/Tashkent",
+        "location": "(UTC+05:00) Tashkent"
+    },
+    {
+        "timezone": "Asia\/Colombo",
+        "location": "(UTC+05:30) Colombo"
+    },
+    {
+        "timezone": "Asia\/Kolkata",
+        "location": "(UTC+05:30) Kolkata"
+    },
+    {
+        "timezone": "Asia\/Kathmandu",
+        "location": "(UTC+05:45) Kathmandu"
+    },
+    {
+        "timezone": "Asia\/Almaty",
+        "location": "(UTC+06:00) Almaty"
+    },
+    {
+        "timezone": "Asia\/Bishkek",
+        "location": "(UTC+06:00) Bishkek"
+    },
+    {
+        "timezone": "Indian\/Chagos",
+        "location": "(UTC+06:00) Chagos"
+    },
+    {
+        "timezone": "Asia\/Dhaka",
+        "location": "(UTC+06:00) Dhaka"
+    },
+    {
+        "timezone": "Asia\/Qyzylorda",
+        "location": "(UTC+06:00) Qyzylorda"
+    },
+    {
+        "timezone": "Asia\/Thimphu",
+        "location": "(UTC+06:00) Thimphu"
+    },
+    {
+        "timezone": "Antarctica\/Vostok",
+        "location": "(UTC+06:00) Vostok"
+    },
+    {
+        "timezone": "Asia\/Yekaterinburg",
+        "location": "(UTC+06:00) Yekaterinburg"
+    },
+    {
+        "timezone": "Indian\/Cocos",
+        "location": "(UTC+06:30) Cocos"
+    },
+    {
+        "timezone": "Asia\/Rangoon",
+        "location": "(UTC+06:30) Rangoon"
+    },
+    {
+        "timezone": "Asia\/Bangkok",
+        "location": "(UTC+07:00) Bangkok"
+    },
+    {
+        "timezone": "Indian\/Christmas",
+        "location": "(UTC+07:00) Christmas"
+    },
+    {
+        "timezone": "Antarctica\/Davis",
+        "location": "(UTC+07:00) Davis"
+    },
+    {
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "location": "(UTC+07:00) Ho Chi Minh"
+    },
+    {
+        "timezone": "Asia\/Hovd",
+        "location": "(UTC+07:00) Hovd"
+    },
+    {
+        "timezone": "Asia\/Jakarta",
+        "location": "(UTC+07:00) Jakarta"
+    },
+    {
+        "timezone": "Asia\/Novokuznetsk",
+        "location": "(UTC+07:00) Novokuznetsk"
+    },
+    {
+        "timezone": "Asia\/Novosibirsk",
+        "location": "(UTC+07:00) Novosibirsk"
+    },
+    {
+        "timezone": "Asia\/Omsk",
+        "location": "(UTC+07:00) Omsk"
+    },
+    {
+        "timezone": "Asia\/Phnom_Penh",
+        "location": "(UTC+07:00) Phnom Penh"
+    },
+    {
+        "timezone": "Asia\/Pontianak",
+        "location": "(UTC+07:00) Pontianak"
+    },
+    {
+        "timezone": "Asia\/Vientiane",
+        "location": "(UTC+07:00) Vientiane"
+    },
+    {
+        "timezone": "Asia\/Brunei",
+        "location": "(UTC+08:00) Brunei"
+    },
+    {
+        "timezone": "Antarctica\/Casey",
+        "location": "(UTC+08:00) Casey"
+    },
+    {
+        "timezone": "Asia\/Choibalsan",
+        "location": "(UTC+08:00) Choibalsan"
+    },
+    {
+        "timezone": "Asia\/Chongqing",
+        "location": "(UTC+08:00) Chongqing"
+    },
+    {
+        "timezone": "Asia\/Harbin",
+        "location": "(UTC+08:00) Harbin"
+    },
+    {
+        "timezone": "Asia\/Hong_Kong",
+        "location": "(UTC+08:00) Hong Kong"
+    },
+    {
+        "timezone": "Asia\/Kashgar",
+        "location": "(UTC+08:00) Kashgar"
+    },
+    {
+        "timezone": "Asia\/Krasnoyarsk",
+        "location": "(UTC+08:00) Krasnoyarsk"
+    },
+    {
+        "timezone": "Asia\/Kuala_Lumpur",
+        "location": "(UTC+08:00) Kuala Lumpur"
+    },
+    {
+        "timezone": "Asia\/Kuching",
+        "location": "(UTC+08:00) Kuching"
+    },
+    {
+        "timezone": "Asia\/Macau",
+        "location": "(UTC+08:00) Macau"
+    },
+    {
+        "timezone": "Asia\/Makassar",
+        "location": "(UTC+08:00) Makassar"
+    },
+    {
+        "timezone": "Asia\/Manila",
+        "location": "(UTC+08:00) Manila"
+    },
+    {
+        "timezone": "Australia\/Perth",
+        "location": "(UTC+08:00) Perth"
+    },
+    {
+        "timezone": "Asia\/Shanghai",
+        "location": "(UTC+08:00) Shanghai"
+    },
+    {
+        "timezone": "Asia\/Singapore",
+        "location": "(UTC+08:00) Singapore"
+    },
+    {
+        "timezone": "Asia\/Taipei",
+        "location": "(UTC+08:00) Taipei"
+    },
+    {
+        "timezone": "Asia\/Ulaanbaatar",
+        "location": "(UTC+08:00) Ulaanbaatar"
+    },
+    {
+        "timezone": "Asia\/Urumqi",
+        "location": "(UTC+08:00) Urumqi"
+    },
+    {
+        "timezone": "Australia\/Eucla",
+        "location": "(UTC+08:45) Eucla"
+    },
+    {
+        "timezone": "Asia\/Dili",
+        "location": "(UTC+09:00) Dili"
+    },
+    {
+        "timezone": "Asia\/Irkutsk",
+        "location": "(UTC+09:00) Irkutsk"
+    },
+    {
+        "timezone": "Asia\/Jayapura",
+        "location": "(UTC+09:00) Jayapura"
+    },
+    {
+        "timezone": "Pacific\/Palau",
+        "location": "(UTC+09:00) Palau"
+    },
+    {
+        "timezone": "Asia\/Pyongyang",
+        "location": "(UTC+09:00) Pyongyang"
+    },
+    {
+        "timezone": "Asia\/Seoul",
+        "location": "(UTC+09:00) Seoul"
+    },
+    {
+        "timezone": "Asia\/Tokyo",
+        "location": "(UTC+09:00) Tokyo"
+    },
+    {
+        "timezone": "Australia\/Adelaide",
+        "location": "(UTC+09:30) Adelaide"
+    },
+    {
+        "timezone": "Australia\/Broken_Hill",
+        "location": "(UTC+09:30) Broken Hill"
+    },
+    {
+        "timezone": "Australia\/Darwin",
+        "location": "(UTC+09:30) Darwin"
+    },
+    {
+        "timezone": "Australia\/Brisbane",
+        "location": "(UTC+10:00) Brisbane"
+    },
+    {
+        "timezone": "Pacific\/Chuuk",
+        "location": "(UTC+10:00) Chuuk"
+    },
+    {
+        "timezone": "Australia\/Currie",
+        "location": "(UTC+10:00) Currie"
+    },
+    {
+        "timezone": "Antarctica\/DumontDUrville",
+        "location": "(UTC+10:00) DumontDUrville"
+    },
+    {
+        "timezone": "Pacific\/Guam",
+        "location": "(UTC+10:00) Guam"
+    },
+    {
+        "timezone": "Australia\/Hobart",
+        "location": "(UTC+10:00) Hobart"
+    },
+    {
+        "timezone": "Asia\/Khandyga",
+        "location": "(UTC+10:00) Khandyga"
+    },
+    {
+        "timezone": "Australia\/Lindeman",
+        "location": "(UTC+10:00) Lindeman"
+    },
+    {
+        "timezone": "Australia\/Melbourne",
+        "location": "(UTC+10:00) Melbourne"
+    },
+    {
+        "timezone": "Pacific\/Port_Moresby",
+        "location": "(UTC+10:00) Port Moresby"
+    },
+    {
+        "timezone": "Pacific\/Saipan",
+        "location": "(UTC+10:00) Saipan"
+    },
+    {
+        "timezone": "Australia\/Sydney",
+        "location": "(UTC+10:00) Sydney"
+    },
+    {
+        "timezone": "Asia\/Yakutsk",
+        "location": "(UTC+10:00) Yakutsk"
+    },
+    {
+        "timezone": "Australia\/Lord_Howe",
+        "location": "(UTC+10:30) Lord Howe"
+    },
+    {
+        "timezone": "Pacific\/Efate",
+        "location": "(UTC+11:00) Efate"
+    },
+    {
+        "timezone": "Pacific\/Guadalcanal",
+        "location": "(UTC+11:00) Guadalcanal"
+    },
+    {
+        "timezone": "Pacific\/Kosrae",
+        "location": "(UTC+11:00) Kosrae"
+    },
+    {
+        "timezone": "Antarctica\/Macquarie",
+        "location": "(UTC+11:00) Macquarie"
+    },
+    {
+        "timezone": "Pacific\/Noumea",
+        "location": "(UTC+11:00) Noumea"
+    },
+    {
+        "timezone": "Pacific\/Pohnpei",
+        "location": "(UTC+11:00) Pohnpei"
+    },
+    {
+        "timezone": "Asia\/Sakhalin",
+        "location": "(UTC+11:00) Sakhalin"
+    },
+    {
+        "timezone": "Asia\/Ust-Nera",
+        "location": "(UTC+11:00) Ust-Nera"
+    },
+    {
+        "timezone": "Asia\/Vladivostok",
+        "location": "(UTC+11:00) Vladivostok"
+    },
+    {
+        "timezone": "Pacific\/Norfolk",
+        "location": "(UTC+11:30) Norfolk"
+    },
+    {
+        "timezone": "Asia\/Anadyr",
+        "location": "(UTC+12:00) Anadyr"
+    },
+    {
+        "timezone": "Pacific\/Auckland",
+        "location": "(UTC+12:00) Auckland"
+    },
+    {
+        "timezone": "Pacific\/Fiji",
+        "location": "(UTC+12:00) Fiji"
+    },
+    {
+        "timezone": "Pacific\/Funafuti",
+        "location": "(UTC+12:00) Funafuti"
+    },
+    {
+        "timezone": "Asia\/Kamchatka",
+        "location": "(UTC+12:00) Kamchatka"
+    },
+    {
+        "timezone": "Pacific\/Kwajalein",
+        "location": "(UTC+12:00) Kwajalein"
+    },
+    {
+        "timezone": "Asia\/Magadan",
+        "location": "(UTC+12:00) Magadan"
+    },
+    {
+        "timezone": "Pacific\/Majuro",
+        "location": "(UTC+12:00) Majuro"
+    },
+    {
+        "timezone": "Antarctica\/McMurdo",
+        "location": "(UTC+12:00) McMurdo"
+    },
+    {
+        "timezone": "Pacific\/Nauru",
+        "location": "(UTC+12:00) Nauru"
+    },
+    {
+        "timezone": "Antarctica\/South_Pole",
+        "location": "(UTC+12:00) South Pole"
+    },
+    {
+        "timezone": "Pacific\/Tarawa",
+        "location": "(UTC+12:00) Tarawa"
+    },
+    {
+        "timezone": "Pacific\/Wake",
+        "location": "(UTC+12:00) Wake"
+    },
+    {
+        "timezone": "Pacific\/Wallis",
+        "location": "(UTC+12:00) Wallis"
+    },
+    {
+        "timezone": "Pacific\/Chatham",
+        "location": "(UTC+12:45) Chatham"
+    },
+    {
+        "timezone": "Pacific\/Apia",
+        "location": "(UTC+13:00) Apia"
+    },
+    {
+        "timezone": "Pacific\/Enderbury",
+        "location": "(UTC+13:00) Enderbury"
+    },
+    {
+        "timezone": "Pacific\/Fakaofo",
+        "location": "(UTC+13:00) Fakaofo"
+    },
+    {
+        "timezone": "Pacific\/Tongatapu",
+        "location": "(UTC+13:00) Tongatapu"
+    },
+    {
+        "timezone": "Pacific\/Kiritimati",
+        "location": "(UTC+14:00) Kiritimati"
+    }
+]
